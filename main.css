@@ -1,0 +1,25 @@
+.top-page {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+    border: solid 1px #000;
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: #000;
+    background-color: lightblue;
+    box-shadow: 0 5px gray;
+    font-size: 20px;
+}
+
+a:active {
+    box-shadow: none;
+}
+
+.question {
+    font-size: 40px;
+}
